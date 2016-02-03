@@ -1,0 +1,2 @@
+# Description
+This is an example of a makefile that uses different directories for source files and header files. There is also a seperate directory for build (all object and executables created here). This project also uses check.h for unit tests which are located in a test folder. make test will compile and run the unit test. The makefile also checks if files are present before trying to remove them (when executing make clean).
