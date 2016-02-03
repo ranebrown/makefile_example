@@ -1,4 +1,4 @@
-# navigation filter makefile
+# makefile /bin/sh
 
 # directories
 SRCDIR = ../src
